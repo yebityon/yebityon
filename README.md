@@ -1,4 +1,2 @@
-# README
-
-Hi! I'm Taeyong Seong.
-Please get in touch with me from the issue.
+Hello,World.
+Please get in touch with me from this repository issue.
