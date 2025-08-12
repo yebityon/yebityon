@@ -1,2 +1,2 @@
 Hello,World.
-Please get in touch with me from this repository issue.
+I'm coder, interested in web programming.
